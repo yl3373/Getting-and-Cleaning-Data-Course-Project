@@ -24,6 +24,7 @@ The files in this repository include:
 
   >  From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+To use the R script, the folder "UCI HAR Dataset" including the original data should be under the working directory of R.
 
 ### Data Source
 
