@@ -1,9 +1,9 @@
 # Getting-and-Cleaning-Data-Course-Project
 
-### Purpose
+## Purpose
 To prepare tidy data that can be used for later analysis. 
 
-### Files Description
+## Files Description
 The files in this repository include: 
 
 1) a tidy data set as described below
@@ -26,7 +26,7 @@ The files in this repository include:
 
 To use the R script, the folder "UCI HAR Dataset" including the original data should be under the working directory of R.
 
-### Data Source
+## Data Source
 
 One of the most exciting areas in all of data science right now is wearable computing - see for example this article . Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
 
@@ -35,3 +35,11 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 The data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+## Instruction
+
+### 1. Download the data zip file above and extract it into the folder "UCI HAR Dataset" under the working directory of R
+
+### 2. Run the "run_analysis.R" script in R
+
+### 3. Find the output file under working directory named "Tidy_Data_Average.txt"
